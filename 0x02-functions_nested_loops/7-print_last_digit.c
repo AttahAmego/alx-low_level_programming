@@ -2,18 +2,21 @@
 /**
 * print_last_digit - function that prints
 * the last digits of any number
-* @a: is the int that will be used for
+* @c: is the int that will be used for
 * the argument of this function
 * Return: returns the last digit
 */
-int print_last_digit(int a)
+int print_last_digit(int c)
 {
-	if (a >= 0 && a <= 9)
-		return (a);
-
+	if (c > 0 || c == 0)
+	{
+	_putchar (c % 10 + '0');
+	return (c % 10);
+	}
 	else
 	{
-		a = _abs(a % 10);
-		return (a);
+	c = c * -1;
+	_putchar (c % 10 + '0');
+	return (c % 10);
 	}
 }
