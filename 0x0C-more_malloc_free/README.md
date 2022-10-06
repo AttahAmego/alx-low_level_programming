@@ -2,17 +2,15 @@
 <hr>
 <h3>This directory contains practice tasks to further enhance my knowledge of basic C-Memory allocation - 0x0B. C - more malloc, free</h3>
 <p>
-<li>
-<ol>Trust no one - Write a function that allocates memory using malloc.</ol>
+<li><ol>Trust no one - Write a function that allocates memory using malloc.</ol></li>
 
-<ol>string_nconcat - Write a function that concatenates two strings.</ol>
+<li><ol>string_nconcat - Write a function that concatenates two strings.</ol></li>
 
-<ol>\_calloc - Write a function that allocates memory for an array, using malloc.</ol>
+<li><ol>_calloc - Write a function that allocates memory for an array, using malloc.</ol></li>
 
-<ol>array_range - Write a function that creates an array of integers.</ol>
+<li><ol>array_range - Write a function that creates an array of integers.</ol></li>
 
-<ol>\_realloc - Write a function that reallocates a memory block using malloc and free.</ol>
+<li><ol>_realloc - Write a function that reallocates a memory block using malloc and free.</ol></li>
 
-<ol>We must accept finite disappointment, but never lose infinite hope - Write a program that multiplies two positive numbers.</ol>
-</li>
+<li><ol>We must accept finite disappointment, but never lose infinite hope - Write a program that multiplies two positive numbers.</ol></li>
 </p>
